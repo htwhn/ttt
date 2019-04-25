@@ -9,7 +9,7 @@ import java.util.Date;
 public class HelloController {
     @GetMapping("/hello")
     public String hello(){
-        return "hello world     333316666611";
+        return "hello world";
     }
 
     private void test(){
